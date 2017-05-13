@@ -43,6 +43,7 @@
     <allowInChatterGroups>true</allowInChatterGroups>
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
     <deploymentStatus>Deployed</deploymentStatus>
+    <deprecated>false</deprecated>
     <enableActivities>true</enableActivities>
     <enableBulkApi>true</enableBulkApi>
     <enableFeeds>false</enableFeeds>
@@ -53,6 +54,7 @@
     <enableStreamingApi>true</enableStreamingApi>
     <fields>
         <fullName>Name__c</fullName>
+        <deprecated>false</deprecated>
         <externalId>false</externalId>
         <label>Name</label>
         <length>80</length>
@@ -64,6 +66,7 @@
     </fields>
     <fields>
         <fullName>Season__c</fullName>
+        <deprecated>false</deprecated>
         <externalId>false</externalId>
         <label>Season</label>
         <referenceTo>Season__c</referenceTo>
