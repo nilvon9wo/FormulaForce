@@ -1,3 +1,10 @@
 .metadata/
 */'Referenced Packages'/*
 /docs/
+/Developing/.project
+/Developing/.settings/
+/Packaging/.project
+/Packaging/.settings/
+/Testing/.project
+/Testing/.settings/
+
